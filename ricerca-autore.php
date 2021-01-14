@@ -1,4 +1,4 @@
-//COLLEGATA CON FORM.HTML
+//COLLEGATA CON FORM-AUTORE.HTML
 
 <?php
 $author = $_GET['author'];
